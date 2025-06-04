@@ -22,6 +22,17 @@ pip install -r requirements.txt
 - Random Forest (Forêt Aléatoire)
 - Régression Logistique
 
+# Analyse de Données sur le Cancer
+
+Ce projet utilise différents algorithmes de Machine Learning pour analyser des données sur le cancer.
+
+## Source des Données
+Les données utilisées dans ce projet proviennent de Kaggle :
+- **Dataset** : China Cancer Patient Records
+- **Source** : [China Cancer Patient Records on Kaggle](https://www.kaggle.com/datasets/ak0212/china-cancer-patient-records)
+- **Description** : Base de données synthétique de patients atteints de cancer en Chine
+- **Note** : Les données ont été téléchargées depuis Kaggle pour cette analyse
+
 ## Algorithmes Utilisés
 
 Ce projet utilise différents algorithmes de Machine Learning pour analyser des données sur le cancer.
